@@ -1,0 +1,14 @@
+{
+    "name": "bullmq_queue_infra_07",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "node src/index.js"
+    },
+    "dependencies": {
+        "bullmq": "^5.77.7",
+        "express": "^5.2.1",
+        "ioredis": "^5.11.0"
+    }
+}
