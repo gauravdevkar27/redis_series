@@ -1,0 +1,13 @@
+{
+    "name": "user_profile_cache_jsong_vs_hash_05",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "node index.js"
+    },
+    "dependencies": {
+        "express": "^5.2.1",
+        "ioredis": "^5.11.0"
+    }
+}
