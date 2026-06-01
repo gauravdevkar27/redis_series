@@ -1,5 +1,5 @@
-{ 
-    "name": "login_otp_with_ttl",
+{   
+    "name": "user_profile_cache_jsong_vs_hash_05",
     "version": "1.0.0",
     "private": true,
     "type": "module",
